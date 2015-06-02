@@ -69,6 +69,11 @@ div.pb {
 }
 div.pb_bar {
     height: 1.5em;
+    background: #4B4B4B;
+}
+div.ui-progressbar-value {
+    height: 1.5em;
+    background: #923B34;
 }
 """.replace('\n', ' ')
 
